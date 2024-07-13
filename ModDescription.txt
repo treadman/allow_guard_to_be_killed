@@ -1,0 +1,7 @@
+With this mod, when one army attacks one army, the defending army will be killed, leaving the territory with zero armies.
+
+This mod only works when the One Army Must Stand Guard setting is on.
+
+This mod only works when the offense kill rate is 50% or more. Less than that means one army will not kill anything anyway.
+
+This mod allows for that one army standing guard to be killed by one attacking army.
